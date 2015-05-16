@@ -199,6 +199,9 @@
     <Compile Include="SupportTicket.cs">
       <DependentUpon>DashboardAppModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>DashboardAppModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Task.cs">
       <DependentUpon>DashboardAppModel.tt</DependentUpon>
     </Compile>
